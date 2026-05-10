@@ -1,11 +1,11 @@
-# 👋 Hola, soy Marcos
+# 👋 Hi, I'm Marcos
 
-🎓 Estudiante de **Licenciatura en Sistemas** en la UNLP<br>
-📚 5° año, cursando las últimas 2 materias y la tesis
+🎓 **Information Systems Bachelor's** student at UNLP<br>
+📚 5th year, currently completing the final two courses and thesis
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 <p align="center">
   <!-- Lenguajes -->
@@ -33,9 +33,9 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-Si querés contactarme:
+If you'd like to contact me:
 
 * 💼 LinkedIn: https://www.linkedin.com/in/marcosmateogerez/
 * 📧 Email: [marcosmateogerez@gmail.com](mailto:marcosmateogerez@gmail.com)
