@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcos
 
-🎓 **Information Systems Bachelor's** student at UNLP<br>
+🎓 **Systems Bachelor's** student at UNLP<br>
 📚 5th year, currently completing the final two courses and thesis
 
 ---
