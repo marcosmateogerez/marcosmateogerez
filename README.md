@@ -1,35 +1,28 @@
 # 👋 Hi, I'm Marcos
 
-🎓 **Systems Bachelor's** student at UNLP<br>
-📚 5th year, currently completing the final two courses and thesis
+At 22 years old, I am in the fifth year of my Bachelor's Degree in Systems at the National University of La Plata (UNLP), having passed all my coursework and final exams with an outstanding GPA, and I am currently finishing my graduation thesis. I also have an advanced level of English (C1).
+
+During my studies, I served as a teaching assistant, which allowed me to consolidate skills such as teamwork, problem-solving, and proactivity. Today, my focus is on backend development with Java and Spring Boot.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technical Skills
 
-<p align="center">
-  <!-- Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  
-  <!-- Bases de datos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-  
-  <!-- Data / Big Data -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
-  
-  <!-- Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-</p>
+* **Languages:** Java
+* **Frameworks:** Hibernate, Spring Boot, Spring Data, Spring Security
+* **Databases:** MongoDB, Redis (NoSQL), SQL
+* **Tools & DevOps:** CI/CD, Docker, Git, GitHub, Kubernetes
+* **Testing:** JUnit, Mockito
+* **Architecture & Methodologies:** Microservices, REST APIs, Scrum
+* **Generative AI Integration in Development:** OpenAI, Gemini, Claude, Antigravity IDE, Copilot
+* **Software Fundamentals:** Algorithms, Data Structures, Design Patterns, SOLID Principles, Object-Oriented Programming (OOP)
+
+---
+
+## 🌐 Languages
+
+* **Spanish:** Native
+* **English:** Advanced (C1)
 
 ---
 
